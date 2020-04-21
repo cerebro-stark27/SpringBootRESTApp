@@ -5,11 +5,25 @@ Simple REST Service that shows stores and it's products
 
 ### Prerequisites
 
+```
 MongoDB - MongoDB 4.2.6 Community Server 
+```
+
+```
 Maven
+```
+
+```
 Spring
+```
+
+```
 Java 11
+```
+
+```
 PostMan
+```
 
 ### Installing
 
